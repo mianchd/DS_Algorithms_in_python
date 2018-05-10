@@ -3,8 +3,8 @@
 
 ## Data Structures
 * Linked List
- * Singly Linked List
- * Doubly Linked List
+  * Singly Linked List
+  * Doubly Linked List
 * Hash-table
 * Stack
 * Queue
@@ -14,19 +14,19 @@
 
 ## Algorithms
 * Sorting
- * Bubble sort
- * Quick sort
- * Merge sort
+  * Bubble sort
+  * Quick sort
+  * Merge sort
  
 * Searching
- * Linear Search
- * Binary Search
- * Depth First Search
- * Breadth First Search
+  * Linear Search
+  * Binary Search
+  * Depth First Search
+  * Breadth First Search
 
 * More
- * Dijkstra
- * A* 
+  * Dijkstra
+  * A* 
 
 ## Examples
 
